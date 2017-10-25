@@ -1,0 +1,26 @@
+html {
+  display: table;
+  margin: auto;
+  height: 100%;
+}
+
+body {
+  display: table-cell;
+  vertical-align: middle;
+  height: 100%;
+}
+
+.margin {
+  margin: 0 !important;
+}
+
+#registrar {
+  height: 100%;
+  width: 100%;
+}
+
+.login-text {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 0.8rem;
+}
